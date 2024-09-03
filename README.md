@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ctrl-alt-bepe
+- 👀 I’m interested in software
+- 🌱 I’m currently learning software
+- 💞️ I’m looking to collaborate on software
+- 📫 How to reach me ._bp. on discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: my dog is called Opus
