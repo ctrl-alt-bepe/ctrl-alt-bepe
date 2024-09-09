@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on software
 - 📫 How to reach me ._bp. on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my dog is called Opus
+- ⚡ Fun fact: hahaha
