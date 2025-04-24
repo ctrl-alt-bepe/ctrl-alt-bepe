@@ -27,7 +27,7 @@ Hey! I'm BP — a developer who loves coding, anything from websites, games, app
 ### 📊 GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-alt-bepe&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-bepe&show_icons=true&theme=dark" />
 </p>
 
 ---
