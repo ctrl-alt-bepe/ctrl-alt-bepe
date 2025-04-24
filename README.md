@@ -7,9 +7,9 @@
 ### 👨‍💻 About Me
 
 Hey! I'm BP — a developer who loves coding, anything from websites, games, applications, and everything in between
-- 🔭 Currently working on: *University projects and course works + a few side projects*  
-- 🌱 Learning: WebDev + GameDev
-- 💡 Always down for a good side project or hackathon  
+- 🔭 Currently working on university projects and hobby projects
+- 🌱 Always looking to learn and improve my skills
+- 💡 Likes thinking about clever solutions and how to optimize code
 
 ---
 
