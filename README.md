@@ -19,7 +19,7 @@ Hey! I'm BP — a developer who loves coding, anything from websites, games, app
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![GDScript](https://img.shields.io/badge/-GDScript-black?style=flat-square&logo=godot-engine&logoColor=478CBF)
 
 ---
