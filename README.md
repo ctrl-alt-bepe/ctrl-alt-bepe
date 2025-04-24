@@ -6,9 +6,9 @@
 
 ### 👨‍💻 About Me
 
-Hey! I'm BP — a software developer who loves building software that feels **clean, clever, and satisfying**.
+Hey! I'm BP — a developer who loves coding, anything from websites, games, applications, and everything in between
 - 🔭 Currently working on: *University projects and course works + a few side projects*  
-- 🌱 Learning: WebDev + Godot game development  
+- 🌱 Learning: WebDev + GameDev
 - 💡 Always down for a good side project or hackathon  
 
 ---
@@ -19,26 +19,21 @@ Hey! I'm BP — a software developer who loves building software that feels **cl
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=dotnet&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-black?style=flat-square&logo=godot-engine&logoColor=478CBF)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-bepe&show_icons=true&theme=radical&hide_border=true&hide_title=false" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-alt-bepe&theme=radical&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-bepe&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 📬 Get In Touch
+### 📬 Get In Touch via mail
 
-- 💬 Discord: `._bp.`
 - 📧 [jbp898@gmail.com](mailto:jbp898@gmail.com)
 
 ---
