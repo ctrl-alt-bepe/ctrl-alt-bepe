@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Bepe+%F0%9F%91%8B;I+turn+coffee+into+code.;Debugging+is+my+cardio.;Sometimes+I+sleep+%E2%98%95%EF%B8%8F"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Jonas!+%F0%9F%91%8B;I+turn+coffee+into+code.;Debugging+is+my+cardio.;Sometimes+I+sleep+%E2%98%95%EF%B8%8F"/>
 </h1>
 
 ### 👨‍💻 About Me
